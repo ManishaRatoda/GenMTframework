@@ -8,5 +8,10 @@ public class HomePage
 	public void homepagetest()
 	{
 		System.out.println("home page");
+		
+	}
+	public void newhomepagetest()
+	{
+		System.out.println("new home page");
 	}
 }
